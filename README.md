@@ -7,6 +7,11 @@ In this code  I have implemented a perfect example for detecting  soli  humidity
 3. Relay Module
 4. Motor for watering and pipe
 
+Connected Cloud Link: "https://github.com/Adityasiwan007/IOT-Home-Automation-Backend"
+
+## Architecture:
+<img src="demo/garden.png" width="580"> 
+
 ## Prototype for Smart Gardening System
 
    <img src="demo/1.jpeg" width="580"> 
